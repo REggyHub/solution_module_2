@@ -1,0 +1,41 @@
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+h1 {
+    text-align: center;
+}
+
+.text {
+    margin: 15px;
+    padding: 20px;
+    background-color: grey;
+    border: 3px solid black;
+    text-align: center;
+    position: relative;
+}
+
+.dish-name {
+    text-align: center;
+    background-color: #fff;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    font-weight: bold;
+
+}
+.pink {
+    background-color: rgb(169, 56, 92);
+}
+.red {
+background-color: rgb(197, 17, 17);
+color: #fff;
+
+
+}
+.bronze {
+    background-color: rgb(183, 188, 103);
+}
